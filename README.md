@@ -134,4 +134,7 @@ Run the script from an already-open PowerShell window rather than double-clickin
 
 ## Safety
 
-Only run executables you trust. Existing destination executables are launched without checking whether they match the current source. Keep `GameCopies` under your control, and do not point the destination at real game installation folders. Renaming an executable does not make it the actual listed game.
+Only run executables you trust. The script launches existing destination executables without checking whether they match the current source. Keep `GameCopies` under your control, and do not point the destination at real game installation folders. Renaming an executable does not make it the actual listed game.
+
+> [!CAUTION]
+> Account Violation & Platform Manipulation Warning: Automating user accounts, dispatching synthetic analytics telemetry, or operating headless streaming clients violates Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). You risk receiving account violations, standing strikes, or permanent account suspensions for automation and/or platform manipulation. Always test tools on secondary/alt accounts first.
