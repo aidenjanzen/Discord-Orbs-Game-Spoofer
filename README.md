@@ -4,6 +4,9 @@ A Windows PowerShell utility that copies a small C# console application into sel
 
 The console application displays its running executable name, application folder, and elapsed runtime. **It does not install or run the actual games.**
 
+> [!IMPORTANT]
+> You will need to accept the quests first to claim playtime. You CAN accept multiple and have them all run at the same time!
+
 ## Features
 
 - Browse a numbered list or search by name.
