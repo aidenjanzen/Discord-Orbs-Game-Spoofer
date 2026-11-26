@@ -116,7 +116,7 @@ Paths without a filename extension receive `.exe`. Placeholder directory names s
 
 ### Running scripts is disabled
 
-> [!IMPORTANT]
+> [!WARNING]
 > If your organization's policy permits it, allow local scripts for the current PowerShell session:
 
 ```powershell
@@ -126,7 +126,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 
 The setting expires when that PowerShell window closes. It does not override organizational policy.
 
-> [!IMPORTANT]
+> [!WARNING]
 > If a downloaded script is blocked, inspect it first, then unblock that specific file:
 
 ```powershell
