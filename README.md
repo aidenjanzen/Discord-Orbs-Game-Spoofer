@@ -64,12 +64,6 @@ From PowerShell in the repository folder:
 .\Select-Game.ps1
 ```
 
-No command-line parameters are required. The script uses paths relative to its own location:
-
-- Source executable: `orbs.exe`
-- Entry list: `games.txt`
-- Destination root: `GameCopies`
-
 ### Menu controls
 
 - `1` — select one displayed entry.
