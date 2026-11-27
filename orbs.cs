@@ -7,7 +7,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Jnxzen's Orb Spoofer");
+        Console.WriteLine("Jnxzen's Discord Orb Spoofer");
 
         // Show the filename of the running executable.
         using (Process currentProcess = Process.GetCurrentProcess())
