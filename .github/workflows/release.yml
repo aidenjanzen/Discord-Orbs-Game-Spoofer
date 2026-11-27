@@ -5,6 +5,7 @@ on:
       - 'main'
     paths-ignore:
       - '.github/**'
+      - '.gitattributes'
       
 permissions:
   contents: write
