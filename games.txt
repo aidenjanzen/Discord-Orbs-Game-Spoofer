@@ -19,6 +19,9 @@ Arc Raiders
 Arena Breakout Infinite
 ..\Win64\UAGame.exe
 
+ARKHERON
+..\Arkheron\Arkheron.exe
+
 Arknights Endfield
 ..\EndField Game\Endfield.exe
 
